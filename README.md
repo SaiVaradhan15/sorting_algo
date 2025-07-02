@@ -20,6 +20,7 @@ Displays all possible time complexities — **best**, **worst**, and **average c
 - HTML  
 - CSS  
 - JavaScript
+### To view the live version click : https://saivaradhan15.github.io/sorting_algo/
 
     
   
